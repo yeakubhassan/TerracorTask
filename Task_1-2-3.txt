@@ -1,0 +1,30 @@
+﻿
+What’s your proudest achievement? It can be a personal project or something you’ve worked on professionally.
+Just a short paragraph is fine, but I’d love to know why you’re proud of it.
+
+I worked for Chologhuri Limited as a software developer, where I developed an online travel booking web application 
+and a Content Management System (CMS) for the web application. During my work period, Chologhuri Limited was a 
+fast-growing start-up in Bangladesh, and I looked after all of their technical projects. Nowadays, Chologhuri Limited 
+is one of the leading online travel agencies that has served more than 1000 clients. I feel proud of myself when I see 
+that the company achieved so many things with the software I developed.
+
+**********************
+
+Tell me about a technical book or article you read recently, why you liked it, and why I should read it.
+
+Recently I read the following article: "When Coding Style Survives Compilation: De-anonymizing Programmers from Executable
+Binaries (https://arxiv.org/abs/1512.08546)". The article was published in the Network and Distributed Systems Security (NDSS)
+Symposium 2018. The article is about de-anonymizing programmers from a set of programs written by a group of programmers. It's
+interesting how the coding style of different programmers can be characterized and quantified. I found the topic more attractive
+than their solving approaches. It will help if you read the article because it would give you an idea of detecting anonymous
+malicious coders from their written codes.
+
+**********************
+
+Tell me about one feature of zeckoShop you really like, and why.
+
+I liked the idea of modular features in zeckoShop. Although most of the e-commerce businesses' basic principles are the same,
+companies may need different features depending on their products. The modular features in zeckoShop make it easy for clients
+to choose what they need. Also, it allows developers to improve and upgrade more features easily.
+
+**********************

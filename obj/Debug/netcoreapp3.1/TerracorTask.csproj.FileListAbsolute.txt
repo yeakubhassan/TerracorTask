@@ -1,0 +1,12 @@
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.csprojAssemblyReference.cache
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.AssemblyInfoInputs.cache
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.AssemblyInfo.cs
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.csproj.CoreCompileInputs.cache
+/Users/yeakub/Projects/TerracorTask/TerracorTask/bin/Debug/netcoreapp3.1/TerracorTask.deps.json
+/Users/yeakub/Projects/TerracorTask/TerracorTask/bin/Debug/netcoreapp3.1/TerracorTask.runtimeconfig.json
+/Users/yeakub/Projects/TerracorTask/TerracorTask/bin/Debug/netcoreapp3.1/TerracorTask.runtimeconfig.dev.json
+/Users/yeakub/Projects/TerracorTask/TerracorTask/bin/Debug/netcoreapp3.1/TerracorTask.dll
+/Users/yeakub/Projects/TerracorTask/TerracorTask/bin/Debug/netcoreapp3.1/TerracorTask.pdb
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.dll
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.pdb
+/Users/yeakub/Projects/TerracorTask/TerracorTask/obj/Debug/netcoreapp3.1/TerracorTask.genruntimeconfig.cache
